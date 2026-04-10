@@ -1,7 +1,7 @@
 # MilitarySym-V - NATO Military Symbology Plugin for QGIS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VaibhavNagare-GIS/militarysym-v_plugin/main/icons/plugin_icon.png" alt="MilitarySym-V Icon" width="120"/>
+  <img src="https://raw.githubusercontent.com/VaibhavNagare-GIS/MilitarySym-V_Plugin/main/icons/plugin_icon.png" alt="MilitarySym-V Icon" width="120"/>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python Version"/></a>
   <a href="[https://www.nato.int/cps/en/natohq/topics_89644.htm](https://www.nato.int/en/about-us/organization/nato-structure/nato-standardization-office)"><img src="https://img.shields.io/badge/Standard-NATO%20APP--6D-darkred" alt="NATO APP-6D"/></a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPL--3.0-orange" alt="License"/></a>
-  <a href="https://github.com/VaibhavNagare-GIS/militarysym-v_plugin"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/></a>
-  <a href="https://github.com/VaibhavNagare-GIS/militarysym-v_plugin/releases"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" alt="Platform"/></a>
+  <a href="https://github.com/VaibhavNagare-GIS/MilitarySym-V_Plugin"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status"/></a>
+  <a href="https://github.com/VaibhavNagare-GIS/MilitarySym-V_Plugin/releases"><img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" alt="Platform"/></a>
 </p>
 
 ---
@@ -86,7 +86,7 @@ No additional Python packages required. All dependencies are bundled with QGIS.
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/VaibhavNagare-GIS/militarysym-v_plugin.git
+   git clone https://github.com/VaibhavNagare-GIS/MilitarySym-V_Plugin.git
    ```
 
 2. Rename the cloned folder to `MilitarySym_V` (underscore, not hyphen — Python import requirement)
@@ -158,7 +158,7 @@ Internal symbol modifiers (crosses, ellipses, triangles) identify the functional
 
 Contributions are welcome. To contribute:
 
-Bug reports and feature requests: [GitHub Issues](https://github.com/VaibhavNagare-GIS/militarysym-v_plugin/issues)
+Bug reports and feature requests: [GitHub Issues](https://github.com/VaibhavNagare-GIS/MilitarySym-V_Plugin/issues)
 
 To contribute: fork the repo, create a feature branch, test in QGIS 3.34+, and open a Pull Request.
 
@@ -199,7 +199,7 @@ If you use MilitarySym-V in research, training, or publications, please cite it 
 
 ```
 Nagare, V. S. (2026). MilitarySym-V: NATO Military Symbology Plugin for QGIS (v1.0.0).
-GitHub. https://github.com/VaibhavNagare-GIS/militarysym-v_plugin
+GitHub. https://github.com/VaibhavNagare-GIS/MilitarySym-V_Plugin
 ```
 
 ---
